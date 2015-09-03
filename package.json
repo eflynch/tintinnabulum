@@ -1,0 +1,29 @@
+{
+  "name": "tintinnabulum",
+  "version": "1.0.0",
+  "description": "website for deploying Tidmarsh compositions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eflynch/tintinnabulum"
+  },
+  "author": "Evan F. Lynch <eflynch@media.mit.edu>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eflynch/tintinnabulum/issues"
+  },
+  "homepage": "https://github.com/eflynch/tintinnabulum",
+  "dependencies": {
+    "browserify": "^11.0.1",
+    "gulp": "^3.9.0",
+    "gulp-notify": "^2.2.0",
+    "gulp-util": "^3.0.6",
+    "react": "^0.13.3",
+    "reactify": "^1.1.1",
+    "vinyl-source-stream": "^1.1.0",
+    "watchify": "^3.4.0"
+  }
+}
